@@ -1,0 +1,194 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2019-01-13 14:38+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+
+
+#: LAA.py:28
+msgid "Matrix"
+msgstr "矩阵"
+
+#: LAA.py:32
+msgid "Geometry"
+msgstr "几何"
+
+#: LAA.py:41
+msgid "Linear Algebra Assistant"
+msgstr "线代助手"
+
+#: xGeometry.py:30
+msgid "Normalize"
+msgstr "正规化"
+
+#: xGeometry.py:34
+msgid "Dot product"
+msgstr "点乘/内积"
+
+#: xGeometry.py:38
+msgid "Cross product"
+msgstr "叉乘/外积"
+
+#: xGeometry.py:42
+msgid "Mix product"
+msgstr "混合积"
+
+#: xGeometry.py:46
+msgid "Determinant"
+msgstr "行列式值"
+
+#: xGeometry.py:221
+msgid "Geometry Assistant"
+msgstr "几何助手"
+
+#: xMatrix.py:36
+msgid "Matrix A"
+msgstr "矩阵A"
+
+#: xMatrix.py:38 xMatrix.py:78
+msgid "Row"
+msgstr "行"
+
+#: xMatrix.py:44 xMatrix.py:84
+msgid "Column"
+msgstr "列"
+
+#: xMatrix.py:50 xMatrix.py:90
+msgid "Transpose"
+msgstr "转置"
+
+#: xMatrix.py:53 xMatrix.py:93
+msgid "Fill 0"
+msgstr "空位补0"
+
+#: xMatrix.py:56 xMatrix.py:96 xMatrix.py:117
+msgid "Clear"
+msgstr "清除"
+
+#: xMatrix.py:59
+msgid "Swap A/B"
+msgstr "交换矩阵A/B"
+
+#: xMatrix.py:76
+msgid "Matrix B"
+msgstr "矩阵B"
+
+#: xMatrix.py:114
+msgid "Swap Result/A"
+msgstr "交换矩阵A/Result"
+
+#: xMatrix.py:133
+msgid "A Determinant"
+msgstr "A的行列式值"
+
+#: xMatrix.py:137
+msgid "A Algebra cofactor"
+msgstr "A的代数余子式/余子矩阵"
+
+#: xMatrix.py:141
+msgid "A*B"
+msgstr ""
+
+#: xMatrix.py:145
+msgid "A^-1"
+msgstr ""
+
+#: xMatrix.py:149
+msgid "A Simplify ladder"
+msgstr "A的简化阶梯型"
+
+#: xMatrix.py:153
+msgid "is A orthogonal?"
+msgstr "向量组正交"
+
+#: xMatrix.py:157
+msgid "A Power"
+msgstr "矩阵A的幂"
+
+#: xMatrix.py:163
+msgid "Gram-Schmidt"
+msgstr "格莱姆-施密特正交化"
+
+#: xMatrix.py:167
+msgid "Eig"
+msgstr "特征值和特征向量"
+
+#: xMatrix.py:171
+msgid "Clear all"
+msgstr "清除全部"
+
+#: xMatrix.py:280
+msgid "the left column and right row are not equal!"
+msgstr "左矩阵列不等于右矩阵行!"
+
+#: xMatrix.py:280 xMatrix.py:294 xMatrix.py:297 xMatrix.py:307 xMatrix.py:314
+#: xMatrix.py:333 xMatrix.py:382 xMatrix.py:390 xMatrix.py:406 xMatrix.py:410
+#: xMatrix.py:470 xMenu.py:16
+msgid "Matrix Assistant"
+msgstr "矩阵助手"
+
+#: xMatrix.py:294
+msgid "the matrix is not square, so that doesn't have inverse matrix."
+msgstr "不是方正，没有逆矩阵。"
+
+#: xMatrix.py:297
+msgid "det() is 0, the matrix doesn't have inverse matrix."
+msgstr "行列式值为0，没有逆矩阵。"
+
+#: xMatrix.py:307
+msgid "the matrix must be square!"
+msgstr "必须为一个方正。"
+
+#: xMatrix.py:314
+msgid "the power exponent must be one of {-1, 2, 3, and bigger}!"
+msgstr "幂级数只能为{-1,2,3,...}之一"
+
+#: xMatrix.py:333
+msgid "the matrix is incomplete or invalid, please check it."
+msgstr "矩阵不完整或不合法，请检查。"
+
+#: xMatrix.py:382 xMatrix.py:390
+msgid "the row/column must be equal for the determinant."
+msgstr "行列式的行和列必须相等。"
+
+#: xMatrix.py:406
+msgid "numpy has not been installed, please install it firstly."
+msgstr "numpy模块没有安装，请安装再试。"
+
+#: xMatrix.py:410
+msgid "Eig is only available to a square matrix."
+msgstr "特征向量只能对方正求解。"
+
+#: xMenu.py:16
+msgid ""
+"This software is free and open source, help to reduce students' hand/brain labor in LinearAlgebra exam.\n"
+"\n"
+"\t\t\tAuthor: XuYuan @Mooc."
+msgstr ""
+
+#: xMenu.py:27
+msgid "Language"
+msgstr "多语言"
+
+#: xMenu.py:28
+msgid "About"
+msgstr "关于"
+
+#: xMenu.py:29
+msgid "Exit"
+msgstr "退出"
+
+#: xMenu.py:30
+msgid "Menu"
+msgstr "菜单"
+

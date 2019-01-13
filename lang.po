@@ -1,0 +1,194 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2019-01-13 14:38+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+
+
+#: LAA.py:28
+msgid "Matrix"
+msgstr ""
+
+#: LAA.py:32
+msgid "Geometry"
+msgstr ""
+
+#: LAA.py:41
+msgid "Linear Algebra Assistant"
+msgstr ""
+
+#: xGeometry.py:30
+msgid "Normalize"
+msgstr ""
+
+#: xGeometry.py:34
+msgid "Dot product"
+msgstr ""
+
+#: xGeometry.py:38
+msgid "Cross product"
+msgstr ""
+
+#: xGeometry.py:42
+msgid "Mix product"
+msgstr ""
+
+#: xGeometry.py:46
+msgid "Determinant"
+msgstr ""
+
+#: xGeometry.py:221
+msgid "Geometry Assistant"
+msgstr ""
+
+#: xMatrix.py:36
+msgid "Matrix A"
+msgstr ""
+
+#: xMatrix.py:38 xMatrix.py:78
+msgid "Row"
+msgstr ""
+
+#: xMatrix.py:44 xMatrix.py:84
+msgid "Column"
+msgstr ""
+
+#: xMatrix.py:50 xMatrix.py:90
+msgid "Transpose"
+msgstr ""
+
+#: xMatrix.py:53 xMatrix.py:93
+msgid "Fill 0"
+msgstr ""
+
+#: xMatrix.py:56 xMatrix.py:96 xMatrix.py:117
+msgid "Clear"
+msgstr ""
+
+#: xMatrix.py:59
+msgid "Swap A/B"
+msgstr ""
+
+#: xMatrix.py:76
+msgid "Matrix B"
+msgstr ""
+
+#: xMatrix.py:114
+msgid "Swap Result/A"
+msgstr ""
+
+#: xMatrix.py:133
+msgid "A Determinant"
+msgstr ""
+
+#: xMatrix.py:137
+msgid "A Algebra cofactor"
+msgstr ""
+
+#: xMatrix.py:141
+msgid "A*B"
+msgstr ""
+
+#: xMatrix.py:145
+msgid "A^-1"
+msgstr ""
+
+#: xMatrix.py:149
+msgid "A Simplify ladder"
+msgstr ""
+
+#: xMatrix.py:153
+msgid "is A orthogonal?"
+msgstr ""
+
+#: xMatrix.py:157
+msgid "A Power"
+msgstr ""
+
+#: xMatrix.py:163
+msgid "Gram-Schmidt"
+msgstr ""
+
+#: xMatrix.py:167
+msgid "Eig"
+msgstr ""
+
+#: xMatrix.py:171
+msgid "Clear all"
+msgstr ""
+
+#: xMatrix.py:280
+msgid "the left column and right row are not equal!"
+msgstr ""
+
+#: xMatrix.py:280 xMatrix.py:294 xMatrix.py:297 xMatrix.py:307 xMatrix.py:314
+#: xMatrix.py:333 xMatrix.py:382 xMatrix.py:390 xMatrix.py:406 xMatrix.py:410
+#: xMatrix.py:470 xMenu.py:16
+msgid "Matrix Assistant"
+msgstr ""
+
+#: xMatrix.py:294
+msgid "the matrix is not square, so that doesn't have inverse matrix."
+msgstr ""
+
+#: xMatrix.py:297
+msgid "det() is 0, the matrix doesn't have inverse matrix."
+msgstr ""
+
+#: xMatrix.py:307
+msgid "the matrix must be square!"
+msgstr ""
+
+#: xMatrix.py:314
+msgid "the power exponent must be one of {-1, 2, 3, and bigger}!"
+msgstr ""
+
+#: xMatrix.py:333
+msgid "the matrix is incomplete or invalid, please check it."
+msgstr ""
+
+#: xMatrix.py:382 xMatrix.py:390
+msgid "the row/column must be equal for the determinant."
+msgstr ""
+
+#: xMatrix.py:406
+msgid "numpy has not been installed, please install it firstly."
+msgstr ""
+
+#: xMatrix.py:410
+msgid "Eig is only available to a square matrix."
+msgstr ""
+
+#: xMenu.py:16
+msgid ""
+"This software is free and open source, help to reduce students' hand/brain labor in LinearAlgebra exam.\n"
+"\n"
+"\t\t\tAuthor: XuYuan @Mooc."
+msgstr ""
+
+#: xMenu.py:27
+msgid "Language"
+msgstr ""
+
+#: xMenu.py:28
+msgid "About"
+msgstr ""
+
+#: xMenu.py:29
+msgid "Exit"
+msgstr ""
+
+#: xMenu.py:30
+msgid "Menu"
+msgstr ""
+
