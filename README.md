@@ -1,2 +1,3 @@
-# LAA
-Linear algebra assistant
+# LAA Linear algebra assistant
+
+## what is LAA
